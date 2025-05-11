@@ -1,7 +1,4 @@
 # VR-Historical-Adventures
-Got it! Here's an updated GitHub description for **VR-Historical-Adventures**, tailored for a **completed project** aimed at helping **students learn academic subjects effectively through VR**:
-
----
 
 ### 🎓 VR-Historical-Adventures
 
